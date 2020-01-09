@@ -1,0 +1,87 @@
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background-color:;
+  line-height: 1.5;
+  font-size: 15px;
+}
+p{
+  color: hsl(229, 6%, 66%);
+}
+.heading-1{
+  font-weight: 200;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+.heading-2{
+  margin-top: 0;
+}
+.detail-1{
+  width: 45%;
+  margin: auto;
+}
+.technology{
+  position: relative;
+}
+.supervisor{
+ display: inline-block;
+ position: absolute;
+ text-align: left;
+ border-radius: 8px;
+ width: 25%;
+ top: 100px;
+ left: 45px;
+ padding: 0 30px 50px;
+ border-top: 5px solid hsl(180, 62%, 55%);
+ box-shadow: 5px 5px 5px 5px hsl(229, 6%, 66%);
+}
+.team-builder{
+  width: 25%;
+  margin: 100px auto 50px;
+  text-align: left;
+  border-radius: 8px;
+  padding: 0 30px 50px;
+  border-top: 5px solid hsl(0, 78%, 62%) ;
+  box-shadow: 5px 5px 5px 5px hsl(229, 6%, 66%);
+}
+.karma{
+  width: 25%;
+  margin: auto auto 100px;
+  text-align: left;
+border-radius: 8px;
+padding: 0 30px 50px;
+border-top: 5px solid hsl(34, 97%, 64%) ;
+box-shadow: 5px 5px 5px 5px hsl(229, 6%, 66%);
+}
+.calculator{
+  width: 25%;
+  display: inline-block;
+  position: absolute;
+  text-align: left;
+  border-radius: 8px;
+  top: 100px;
+  right: 45px;
+  padding: 0 30px 50px;
+  border-top: 5px solid hsl(212, 86%, 64%) ;
+  box-shadow: 5px 5px 5px 5px hsl(229, 6%, 66%);
+}
+.super-img{
+  position: relative;
+  left: 250px;
+  top: 28px;
+}
+.team-img{
+  position: relative;
+  left: 250px;
+  top: 28px;
+}
+.karma-img{
+  position: relative;
+  left: 250px;
+  top: 28px;
+}
+.calc-img{
+  position: relative;
+  left: 250px;
+  top: 28px;
+}
